@@ -21,6 +21,3 @@ A simple weather application built with HTML, CSS, and JavaScript. It allows use
 - `style.css` - Stylesheet
 - `script.js` - JavaScript logic
 - `*.png` - Weather icons
-
-## License
-This project is open source and available under the [MIT License](LICENSE). 
